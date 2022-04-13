@@ -9,7 +9,7 @@ $$  /   \$$ |\$$$$$$$ |  \$$$$  |\$$$$$$$\ $$ |      $$ | $$ | $$ |\$$$$$$$ |$$ 
 \__/     \__| \_______|   \____/  \_______|\__|      \__| \__| \__| \_______|\__|      \__|  \__|
 */
 div[class*="typeWindows-"]::after {
-  content: 'DOXNET VARIANT V1 ONLINE';
+  content: 'welcome... DOXY';
   font-weight: bold;
   line-height: 30px;
   color: var(--Main-Color);
